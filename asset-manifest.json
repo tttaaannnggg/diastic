@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diastic/static/css/main.94b35dcf.chunk.css",
+    "main.js": "/diastic/static/js/main.9519b408.chunk.js",
+    "main.js.map": "/diastic/static/js/main.9519b408.chunk.js.map",
+    "runtime-main.js": "/diastic/static/js/runtime-main.381f77e0.js",
+    "runtime-main.js.map": "/diastic/static/js/runtime-main.381f77e0.js.map",
+    "static/js/2.4118de47.chunk.js": "/diastic/static/js/2.4118de47.chunk.js",
+    "static/js/2.4118de47.chunk.js.map": "/diastic/static/js/2.4118de47.chunk.js.map",
+    "index.html": "/diastic/index.html",
+    "precache-manifest.ec7e43ffad21c2f8c7e906162b3f35b9.js": "/diastic/precache-manifest.ec7e43ffad21c2f8c7e906162b3f35b9.js",
+    "service-worker.js": "/diastic/service-worker.js",
+    "static/css/main.94b35dcf.chunk.css.map": "/diastic/static/css/main.94b35dcf.chunk.css.map",
+    "static/js/2.4118de47.chunk.js.LICENSE.txt": "/diastic/static/js/2.4118de47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381f77e0.js",
+    "static/js/2.4118de47.chunk.js",
+    "static/css/main.94b35dcf.chunk.css",
+    "static/js/main.9519b408.chunk.js"
+  ]
+}
